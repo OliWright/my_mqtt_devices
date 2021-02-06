@@ -1,0 +1,3 @@
+[submodule "ir_gateway"]
+	path = ir_gateway
+	url = git@github.com:OliWright/ir_gateway.git
