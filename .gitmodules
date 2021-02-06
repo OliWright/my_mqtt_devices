@@ -1,3 +1,12 @@
 [submodule "ir_gateway"]
 	path = ir_gateway
 	url = git@github.com:OliWright/ir_gateway.git
+[submodule "mqtt_sky"]
+	path = mqtt_sky
+	url = git@github.com:OliWright/mqtt_sky.git
+[submodule "mqtt_fishtank_lights"]
+	path = mqtt_fishtank_lights
+	url = git@github.com:OliWright/mqtt_fishtank_lights.git
+[submodule "mqtt_devices"]
+	path = mqtt_devices
+	url = git@github.com:OliWright/mqtt_devices.git
